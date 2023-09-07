@@ -1,0 +1,5 @@
+# Archivos que ignora:
+.env
+
+# Carpetas que ignora:
+# carpeta/
